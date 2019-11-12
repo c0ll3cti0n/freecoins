@@ -5,3 +5,6 @@ cd coi*/btc && python main.py +917002909165 && cd ../ltc && python main.py +9170
 
 sleep 600
 
+
+
+
